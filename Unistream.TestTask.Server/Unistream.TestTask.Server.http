@@ -1,0 +1,6 @@
+@Unistream.TestTask.Server_HostAddress = http://localhost:5230
+
+GET {{Unistream.TestTask.Server_HostAddress}}/
+Accept: application/json
+
+###
